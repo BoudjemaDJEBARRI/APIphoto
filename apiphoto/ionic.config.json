@@ -1,0 +1,7 @@
+{
+  "name": "apiphoto",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
